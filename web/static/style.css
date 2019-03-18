@@ -1,0 +1,21 @@
+/* General */
+
+body {
+	background-color: #53ba5e;
+}
+
+* {
+	font-family: "Oxygen Mono";
+}
+
+/* Elements */
+
+a {
+	text-decoration: none;
+}
+
+center {
+	text-align: center;
+	margin: 0;
+	padding: none;
+}

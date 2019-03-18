@@ -1,0 +1,26 @@
+/* Elements */
+
+button {
+	width: 140px;
+	border: none;
+	padding: 14px;
+
+	color: black;
+	background-color: #2daf24;
+
+	display: inline-block;
+	text-align: center;
+	text-decoration: none;
+
+	margin-bottom: 16px;
+
+	user-select: none;
+
+	transition: background-color 0.4s;
+}
+
+button:hover {
+	background-color: #269f1e;
+
+	cursor: pointer;
+}
